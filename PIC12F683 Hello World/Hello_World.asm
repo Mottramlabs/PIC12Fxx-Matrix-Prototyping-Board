@@ -51,10 +51,6 @@
 
                     movlw               0x07                                    ; load w
                     movwf               CMCON0                                  ; comarators off, digital I/O only
-                       
-   ;                 ;Define and enable I/O
-   ;                 #Define        PCB_LED             Port_G,LED          ;LED
-   ;                 bcf        PCB_LED                                 ;LED Control
 
                     bcf                 LED                                     ; LED control
                     goto                Start                                   ; jump
