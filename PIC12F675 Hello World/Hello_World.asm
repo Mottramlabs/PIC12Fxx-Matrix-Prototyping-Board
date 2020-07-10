@@ -3,7 +3,7 @@
 ;                   Product:            Hello World
 ;                   Last update:        16th May 2020
 ;                   Author:             David Mottram
-;                   Device:             PIC12F683
+;                   Device:             PIC12F675
 ;                   Clock:              Internal 8MHz
 ;                   ---------------------------------------------------------------------------------------------------
 
